@@ -18,7 +18,7 @@ export default function Live2D() {
           try {
             loadlive2d('live2d', BLOG.WIDGET_PET_LINK)
           } catch (error) {
-            console.error('读取PET模型', error)
+            console.error('PETİ MODELİNİ OKU', error)
           }
         }
       })
