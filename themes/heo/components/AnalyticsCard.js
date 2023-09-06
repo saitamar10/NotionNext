@@ -23,7 +23,7 @@ export function AnalyticsCard(props) {
             <div className='inline'>
                 <div className='flex justify-between'>
                     <div>Kaç gündr açık:</div>
-                    <div>{diffDays} 天</div>
+                    <div>{diffDays} Gün</div>
                 </div>
             </div>
             <div className='hidden busuanzi_container_page_pv'>
